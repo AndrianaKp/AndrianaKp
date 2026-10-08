@@ -1,7 +1,8 @@
 # Hi, I'm Andriana 👋
 
-**Computer Engineering & Informatics graduate (University of Patras, graduating November 2026),
-Junior ML / AI Engineer**
+**Computer Engineering & Informatics student, University of Patras (graduating November 2026)**
+
+**Junior ML / AI Engineer**
 
 I build machine-learning pipelines for **time-series and wearable-sensor data**: from collecting and cleaning the data, through signal processing and feature engineering, to models that are evaluated honestly (subject-wise cross-validation, no leakage).
 
@@ -25,8 +26,11 @@ I build machine-learning pipelines for **time-series and wearable-sensor data**:
 ## Tech stack
 
 **ML & Data:** Python, scikit-learn, TensorFlow/Keras, pandas, NumPy, SciPy, MLflow, Jupyter
+
 **Signal processing:** filtering, FFT/DCT, windowing, IMU time series
+
 **Databases:** SQL (MySQL), MongoDB
+
 **Programming:** Python, C/C++, JavaScript (Node.js), OpenMP, MPI, Git
 
 ## Languages
