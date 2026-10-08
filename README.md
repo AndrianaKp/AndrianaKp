@@ -1,13 +1,14 @@
 # Hi, I'm Andriana 👋
 
-**Computer Engineering & Informatics graduate (University of Patras, graduating November 2026) · Junior ML / AI Engineer**
+**Computer Engineering & Informatics graduate (University of Patras, graduating November 2026),
+Junior ML / AI Engineer**
 
 I build machine-learning pipelines for **time-series and wearable-sensor data**: from collecting and cleaning the data, through signal processing and feature engineering, to models that are evaluated honestly (subject-wise cross-validation, no leakage).
 
-- 🎓 Diploma thesis: detecting **stress-related hand movements** from wrist IMU signals with classical ML and 1D CNNs
-- 🔬 Interested in: applied ML, signal processing, deep learning for time series, data engineering
-- 📍 Based in Greece · open to junior ML / AI / Data roles in **Copenhagen** or remote
-- 📫 [LinkedIn](https://www.linkedin.com/in/andriana-kapogiannopoulou-a63b41334) · andy.kpl08@gmail.com
+- Diploma thesis: detecting **stress-related hand movements** from wrist IMU signals with classical ML and 1D CNNs
+- Interested in: applied ML, signal processing, deep learning for time series, data engineering
+- Based in Greece, open to junior ML / AI / Data roles in person or remote
+- [LinkedIn](https://www.linkedin.com/in/andriana-kapogiannopoulou-a63b41334), andriana.kapogiannopoulou@gmail.com
 
 ## Featured projects
 
@@ -23,11 +24,11 @@ I build machine-learning pipelines for **time-series and wearable-sensor data**:
 
 ## Tech stack
 
-**ML & Data:** Python · scikit-learn · TensorFlow/Keras · pandas · NumPy · SciPy · MLflow · Jupyter
+**ML & Data:** Python, scikit-learn, TensorFlow/Keras, pandas, NumPy, SciPy, MLflow, Jupyter
 **Signal processing:** filtering, FFT/DCT, windowing, IMU time series
-**Databases:** SQL (MySQL) · MongoDB
-**Programming:** Python · C/C++ · JavaScript (Node.js) · OpenMP · MPI · Git
+**Databases:** SQL (MySQL), MongoDB
+**Programming:** Python, C/C++, JavaScript (Node.js), OpenMP, MPI, Git
 
 ## Languages
 
-Greek (native) · English (C1)
+Greek (native), English (C1)
